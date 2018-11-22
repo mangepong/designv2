@@ -4,22 +4,13 @@ title: "Min fina titel"
 Min me-sida i kursen design
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+[FIGURE src="image/slash.jpg?w=400" class="right" caption="Bild på Slash"]
 
-[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
+Tjena mitt namn är Emil "Mange" Magnusson. Jag bor och lever mitt liv i vackra Rödeby och ibland i Lyckeby. Mi casa ligger i norra Rödeby (i den bra delen av Rödeby) där jag har min mancave. Jag gick mina första 10 år på Rödebyskolan som jag trivdes bra på. Där jag redan då började fatta tycke för programmering och teknik. Efter det var jag tvungen till att vidga vyerna och ta mig in till staden aka Kallekrona för att gå på den gymnasieskola. Skolan som jag gick på heter Ehrensvärdska och där gick jag en linje som heter Teknik med inriktning Media - och informations teknik. Där fick jag bland annat studera programmeringsspråk som C++, C#, Java, Javascript, HTML, CSS och lite PHP. Dessa språken låste jag under 2 år så jag har en grundläggande förståelser för de olika språken. Jag tog studenten sommaren 2018 och påbörjade sedan en utblidning på Blekinges Tekniska Högskola (BTH) som heter Webbprogrammering.
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
-
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
-
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
-
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Byline
+===
+<div class="byline">
+Emil Magnusson webbprogrammerare på BTH.
+Kommer att plugga i 3år. [FIGURE src="image/slash.jpg?w=50"]
+</div>

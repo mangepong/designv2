@@ -4,7 +4,7 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-kursrepo
 
@@ -12,17 +12,22 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-redovisa
 ---
 Om
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+Denna kursen va ett helvete att installera composer. Men annars så är det rätt roligt
+att få lära sig att skriva i markdown. Har inte riktigt fattat vad vi ska göra i denna kursen
+utöver att lära oss design. Och ramverk verkar rätt kul att lära sig.
 
-Skriv några kloka ord om kursen?
+[FIGURE src=image/meme.png?w=300 caption="En fin 'meme' bild som presenterar programmering."]
 
-Lägg till en representativ bild för kursen, enligt ditt egna val.
-
-[FIGURE src=image/car.png?w=300 caption="En fin bil som demobild."]
+Länkar till Github
+===
+<div class="links">
+<a href="https://github.com/mangepong/designv2">Mitt egna Github Repo.</a>
+<a href ="https://github.com/dbwebb-se/design">Dbwebb's Github Repo.</a>
+</div>
