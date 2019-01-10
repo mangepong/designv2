@@ -24,10 +24,3 @@ att få lära sig att skriva i markdown. Har inte riktigt fattat vad vi ska gör
 utöver att lära oss design. Och ramverk verkar rätt kul att lära sig.
 
 [FIGURE src=image/meme.png?w=300 caption="En fin 'meme' bild som presenterar programmering."]
-
-Länkar till Github
-===
-<div class="links">
-<a href="https://github.com/mangepong/designv2">Mitt egna Github Repo.</a>
-<a href ="https://github.com/dbwebb-se/design">Dbwebb's Github Repo.</a>
-</div>
