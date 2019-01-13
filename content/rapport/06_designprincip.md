@@ -10,7 +10,7 @@ kolla på webbplasterna designprinciper och designdelar.
 Urval
 -----------------------
 Jag valde att fortsätta att undersöka dem hemsidor som jag använde i min förra rapport om laddningstider dvs Inet, Komplett och Dustin Home.
-Tyckte att det kunde vara spännande att fortsätta på samma spår som innan och ta reda på mer om dessa sidor.
+Alla tre säljer teknikprodukter med en lite mer inriktning på datorer.
 
 **Webbplatserna som jag har valt:**
 
@@ -21,43 +21,69 @@ Tyckte att det kunde vara spännande att fortsätta på samma spår som innan oc
 Metod
 -----------------------
 
-När jag utförde undersökningen så använde jag mig utav flera olika verktyg som <a href="https://developers.google.com/speed/pagespeed/insights/">PageSpeed Insight</a>, Google Chromes egna <a href="https://developers.google.com/web/tools/chrome-devtools/">Devtool</a> som är inbyggd i webbläsaren, det sista verktyget jag använde mig utav va <a href="https://gyazo.com/captures">Gyazo</a> som är ett gratis program som man kan ladda ner för att ta "screenshots" på datorn. Jag använde även Googles egna och gratis online verktyg <a href="https://docs.google.com/spreadsheets/u/0/">Google Kalkylark</a> för att spara all data som jag fick fram.
+Matrialet som jag valde att använda mig utav en artikel på <a href="https://www.canva.com">canva.com</a> som heter <a href="https://www.canva.com/learn/design-elements-principles/">Design Elements & Principles</a>. De tar upp en massa bra punkter om hur en sida kan designa sin sida och har 20 stycken olika design principer att jämföra med. Valde även att ta med en <a href="https://en.wikipedia.org/wiki/Visual_design_elements_and_principles">wikipedia sida</a> som tar upp både principer och elemnter inom design.
 
-<a href="https://developers.google.com/speed/pagespeed/insights/">PageSpeed Insight</a> är ett webbbaserat program som google har skapat för att analysera webbplaster på datorer och mobila enheter. Den ger sedan ett betyg på både mobil och dator versionen och sedan så ger den feedback på vad man kan göra för att förbättra webbplatsen.
+**Länkar till materialet:**
 
-Det andra verktyget <a href="https://developers.google.com/web/tools/chrome-devtools/">Devtool</a> kan man använda för att övervaka nätverks aktiviteten på webbplasten och ser vad som händer medans man laddar in sidan. Man kan se hur många requests som sker och t.ex hur lång tid det tar för DOM att ladda in.
-
-<a href="https://gyazo.com/captures">Gyazo</a> som jag har använt tidigare är ett gratis program som man kan ladda ner för att ta screenshot på datorn och sen spara på datorn för att använda. Det fungerar så att man startar programmet och drar musen över det du vill spara och sedan släppa musklicket så laddas din bild direkt upp på ditt konto på <a href="https://gyazo.com/captures">Gyazo</a> som du sedan alltid kan komma åt.
-
-Det sista vertyget jag använde mig utav var <a href="https://docs.google.com/spreadsheets/u/0/">Google Kalkylark</a> som är vad det låter som, ett kalkylark som sparas automatiskt online så fort du skriver nått. Det fungerar och liknar Microsoft Office egna version av kalkylark.
+* <a href="https://www.canva.com/learn/design-elements-principles/">Design Elements & Principles - Canvas</a>
+* <a href="https://en.wikipedia.org/wiki/Visual_design_elements_and_principles">Visual design elements and principles - Wikipedia</a>
 
 Resultat
 -----------------------
 
-<a href="https://docs.google.com/spreadsheets/d/1M6DgTiNc_s4Ov0kHsHDER0sznoUJzPof7hUHa9PCNGI/edit#gid=0">Här finns kalkylarket för alla sidorna och deras analyser.</a>
-
 #### Inet
 
-[FIGURE src="image/inet2.jpg?w=1000"]
+**Syfte**<br>
 
-Jag blev faktiskt väldigt besviken på Inet denna gången. Har alltid tyckt om deras sida och hur de har byggt upp den. Men i undersökningen så får jag se att deras hastighet på mobilen var väldigt dåligt på alla tre olika sidorna på Inet. På mobilen låg det mellan 30-40 utav 100 poäng och det är väldigt dåligt för att vara en så pass stor sida. Dator sidan på andra sidan var mycket bättre och visade betyg på mellan 90-96 vilket är ett stort hopp ifrån 30-40. Om Inet hade minskat belastningen på modertrådarna så hade man kunnat spara nästa 5 sekunder på mobil versionen samt att man hade kunnat skjuta upp inläsningen av olika saker som inte används.
+Syftet med sidan är att marknadsföra och sälja produkter till kunder. De har även tjänster som deras företag erbjuder. Man kan också skapat ett konto för att hålla koll på sina ordrar och sina egna e-kvitton.<br><br>
+**Design**<br>
+
+Det första man märker när man gå in på deras sida är att många erbjudande som kommer fram på en och samma gång samt en stor flash bild på deras nyaste erbjudande tar upp en ganska stor bit av deras sida. Detta skapar en effekt så att användare och kunder direkt fastnar för och ser deras erbjudande vilket är en bra sak om man kollar ifrån ett marknadsförings perspektiv.
+<br><br>
+Generellt tycker jag att sidan gör ett bra jobb med sin design. De har en ganska enkel och simpel design med enkla länkar så att man förstå vad man ska klicka på och gör det lätt att navigera runt på deras sida. Det som kännertecknar Inet är deras färgtema som är i en grå skala som de använder tillsammans med accentfärgerna svart och röd vilket gör att det passar väldigt bra in på sidan.
+
+**Designprinciper och designelement**<br>
+
+Som jag nämnde tidigare så är färgtemat ett ganska viktigt element för denna sidan. Deras färger röd, svart, vit och grått finns på alla deras undersidor
+som speglar deras image över hela webbsidan. Det gör så att man alltid känner att man inne på Inets webbplats.<br><br>
+Dem håller sig bra med att ha en symmetri på deras innehåll. T.ex på startsidan så har den en left-sidebar och en right-sidebar med olika produkter i mitten med samma storlek på alla. De använder sig också av att skala olika objekt på deras sida för att fånga kundernas blickar. De gör så att deras senaste erbjudande för större och tar upp mer plats på sidan och har en bild som lockar till deras produkt.<br><br>
+Känslan man får när man kommer in är att det är en trevlig sida men lite för oaktraktiv. Hade gärnat velat se att de hade lite mer liv i sidan t.ex lite mer animationer som skulle ge sidan lite mer liv i sig.
 
 #### Komplett
 
-[FIGURE src="image/komplett2.jpg?w=1000"]
+**Syfte**<br>
 
-Lik Inet så har inte komplett levererat som jag hade hoppats på gällande betyget på PageSpeed Insight. På deras startsida så lyckades dem få en full pott på PageSpeed med 100 poäng och med ett bättre betyg än Inet på mobilen med 52 poäng. Inget som är jättebra med det är ett mycket bättre betyg än Inet. Komplett lyckas hålla sig inom 95-100 på dator versionen och 50 på mobil versionen på de flesta sidor men de sjönk ner ganska så markant på deras "guide" sida. Där gick dator versionen ner till 70 och mobilen sjönk ner till Inets prestanda på 30. Kompletts störta hopp om att snabba upp sidan är att aktivera en textkomprimering som skulle spara nästan 2 sekunder.
+Syftet med sidan är att marknadsföra och sälja produkter till kunder. De har även tjänster som deras företag erbjuder. Man kan också skapat ett konto för att hålla koll på sina ordrar och sina egna e-kvitton.<br><br>
+
+**Design**<br>
+
+Det första man möts av när man går in på Kompletts sida är en trevlig animerad banner med erbjudande på deras produkter vilket tar upp en ganska stor bit av deras sida. Det gör som föregående sida att man fastnar gärna där och vill kolla vidare på deras banner för att se deras produkter. Deras färger består utav gul, blått och vit vilket är deras kännertecken. Det upprepas på alla deras undersidor vilket gör så att man känner sig hemma hos komplett.<br><br>
+
+
+**Designprinciper och designelement**<br>
+
+Det som kännertecknar komplett är som jag tidigare skrivit är att deras val av färger. Det är det typiska kännertecknet hos komplett som man hitter överallt på deras sida. De håller sig till samma struktur med det symetriska tänket gällande deras produkter. De har en navbar som går över hela sidan och så har de en right-sidebar som smälter ihop med deras main som innehåller alla produkter. De använder sig också av att skala olika produkter så de har en större bild på en eller flera av deras produkter och sedan skalar det ner så att de blir mindre utrymme för de andra produkterna. Jag tycker att de gör ett bra jobb med designen och det gynnar deras marknadsföring bra.
 
 #### Dustin Home
 
-[FIGURE src="image/dustin2.jpg?w=1000"]
+**Syfte**<br>
 
-Dustin Home liksom Inet lyckas hålla en stabil hastighet utöver hela webbplasten med 95-97 på datorn och 44-48 på mobilen. Inga höjdar betyg på mobilen men de lyckas hålla det stadigt. Detta är ändå ett betydligt bättre betyg än vad Inet fick men ändå inte riktigt på Kompletts nivå med mobil versionen. Hade dem liksom komplett aktiverat textkomprimering så hade de kunnat spara 3 sekunder på bara det. Det som Dustin gör bättre än dem andra är att hålla sig på ett bra betyg på alla deras sidor som jag testade och inte variera mycket med betyget.
+Syftet med sidan är att marknadsföra och sälja produkter till kunder. De har även tjänster som deras företag erbjuder. Man kan också skapat ett konto för att hålla koll på sina ordrar och sina egna e-kvitton.<br><br>
+
+**Design**<br>
+
+Det första man möts av är en stor flashbild som representerar deras produkter och som länkar vidare till dem liknande Inets likasom denna så tar den upp en ganska stor bit utav sidan. Det som kännertecknar sidan mest är deras blå svarta logga som alltid finns på deras undersidor. Lika så är deras färger som är vit, orange och liten touch av blått som förgyller sidan.
+
+
+**Designprinciper och designelement**<br>
+
+Jag tycker liksom de andra att denna sidan har gjort ett bra jobb med sin design. De använder sig bra utav olika skalor och gör ett bra jobb med att "highlighta" det som de tycker är viktigt som flashbilden. Tycker att det blev lite trevligare att ha alla olika katergorier under flashbilden istället för till sidan i en sidebar som föregående sidor. Dem använder sig väldigt starkt av symetrin på denna sidan. Det märks på deras startsida då allt är prydligt och jämnt. Det enda som är lite asymetriskt är i footern där de har en bild som inte riktigt blir symetrisk. Annars är undersidorna ganska lika varandra med en symetrisk stil.
 
 Analys
 -----------------------
 
-Dem tre sidorna som jag har analyserat är gjorda för samma sak, dvs dem ska sälja sina produkter. Både Komplett och Dustin har samma problem med att inte ha aktiverat textkomprimering som skulle ha förbättrat deras sidor ganska så markant enligt PageSpeed iallafall. Inet tycker jag faller tillbaka en hel del då deras mobil version är så pass dålig att den inte kan jämföras med de andras versioner. Både Komplett och Dustin hade mellan 10-20 poäng högre än Inet på mobilen. Så jag skulle vilja påstå att Dustin är den bättre sidan generellt med allt. Mellan Komplett och Dustin är det ganska jämnt men eftersom Dustin lyckas hålla sig vid samma siffror och att det är ett bra betyg så kommer dem lite högre upp än Komplett. Hade inte Kompletts dator och mobil version sjunkt så pass mycket på en sida så hade dem kanske tagit första platsen. Något som dock Dustin också gör väldigt bra om man jämför med de andra så är det att Dustin laddningstid är mellan 1-3 sekunder vilket jag tycker är snabbt om man kollar på de andra webbplatser som har ibland uppåt 10+ sekunder. I mina ögon så är en snabb hemsida under 5 sekunder och allt över det så blir det en långsam hemsida. Alla webbplatserna generellt är bra gjorda och bekväma att använda så det är lite synd att Komplett och Inet va så pass dåliga som de va.
+Dem tre sidorna som jag har analyserat är gjorda för samma sak, dvs dem ska sälja sina produkter. Och efter att ha analyserat alla tre sidor så kom jag fram till att alla sidor är ganska lika varandra. Dem hade alla tre en flashbild som visade det aktuella erbjudandet på divarse produkter. Alla hade gjort mer eller mindre samma sak på deras startsidor med ett undantag av Dustin Home som valde att ha sina kategorier under flashbilden istället för att ha en egen sidebar som Inet och Komplett. De har också alla tre samma grundfärg dvs vit med sen sin egna accentfärger som gör så att man får en mer seriös uppfattning av deras sidor. <br><br>
+Jag kan ärligt säga att efter denna analysen kan jag säga att designprinciper och designelement har en stor inverkan på hur bra en webbplats kan vara. Det är ett väldigt bra verktyg som avgör om sidan är en "hit or diss". T.ex Kompletts animerade flashbanner gjorde en stor skilland om man jämför med de andra sidorna som hade en statisk bild på ett erbjudande. Sådana små saker kan vara anledningar att få en kund att återkomma till sidan.
 
 Referenser
 -----------------------
@@ -66,7 +92,8 @@ Referenser
 * <a href="https://www.inet.se/">Inet</a>
 * <a href="https://www.komplett.se/">Komplett</a>
 * <a href="https://www.dustinhome.se/">Dustin Home</a>
-* <a href="https://developers.google.com/speed/pagespeed/insights/">PageSpeed Insight</a>
+* <a href="https://www.canva.com/learn/design-elements-principles/">Design Elements & Principles</a>
+* <a href="https://en.wikipedia.org/wiki/Visual_design_elements_and_principles">Visual design elements and principles</a>
 
 Övrigt
 -----------------------
